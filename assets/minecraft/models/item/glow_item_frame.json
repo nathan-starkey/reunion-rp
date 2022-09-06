@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/glow_item_frame"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 4005558}, "model": "reunion:custom_blocks/redstone_bench"},
+    {"predicate": {"custom_model_data": 4376326}, "model": "reunion:custom_blocks/stone_crafting_table"},
+    {"predicate": {"custom_model_data": 6584248}, "model": "reunion:custom_blocks/altar"},
+    {"predicate": {"custom_model_data": 8386355}, "model": "reunion:custom_blocks/gravity_scrubber"},
+    {"predicate": {"custom_model_data": 8615393}, "model": "reunion:custom_blocks/jewel_bench"},
+    {"predicate": {"custom_model_data": 9626834}, "model": "reunion:custom_blocks/monster_nest"}
+  ]
+}
