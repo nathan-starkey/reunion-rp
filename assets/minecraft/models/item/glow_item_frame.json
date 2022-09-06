@@ -4,6 +4,7 @@
     "layer0": "item/glow_item_frame"
   },
   "overrides": [
+    {"predicate": {"custom_model_data": 2536310}, "model": "reunion:custom_blocks/charging_table"},
     {"predicate": {"custom_model_data": 4005558}, "model": "reunion:custom_blocks/redstone_bench"},
     {"predicate": {"custom_model_data": 4376326}, "model": "reunion:custom_blocks/stone_crafting_table"},
     {"predicate": {"custom_model_data": 6584248}, "model": "reunion:custom_blocks/altar"},
